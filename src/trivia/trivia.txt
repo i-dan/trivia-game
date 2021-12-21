@@ -1,0 +1,20 @@
+What is the sum of 14+36?
+50
+60
+45
+40
+What's the capital city of Israel?
+Jerusalem
+Ashdod
+Tel Aviv
+Hifa
+How many children (males) did Father Jacob has?
+12
+10
+13
+9
+What's the current year by the Hebrew calendar?
+5782
+782
+783
+6783
